@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    padding: 0 16px;
+    justify-content: space-around;
+
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+}
+
+.icon {
+    width: 300px;
+    height: auto;
+}
