@@ -111,3 +111,17 @@ ul {
     text-align: center;
     margin-bottom: 32px;
 }
+
+.quote-box {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    align-items: flex-end;
+    padding: 64px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
