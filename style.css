@@ -125,3 +125,31 @@ ul {
     font-weight: 100;
     font-style: italic;
 }
+
+.pitch {
+    display: flex;
+    background-color: #3882F6;
+    justify-content: space-between;
+    gap: 32px;
+    padding: 64px;
+    margin: 128px;
+    border-radius: 32px;
+}
+
+.med-text {
+    font-size: 24px;
+    color:#F9FAF8;
+    font-weight: 600;
+    padding-bottom: 8px;
+
+}
+.pitch .sign-up {
+    border: 1px solid #F9FAF8;
+    align-self: flex-end;
+    
+}
+
+.footer {
+    text-align: center;
+    
+}
