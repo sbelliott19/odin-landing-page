@@ -69,9 +69,10 @@ ul {
 
 .body-title {
     text-align: center;
-    font-size: 24px;
+    font-size: 36px;
     padding: 48px;
     font-weight: 900;
+    color: #1F2937;
 }
 
 .container {
@@ -100,6 +101,10 @@ ul {
 .icon {
     width: 275px;
     height: auto;
-    padding: 8px;
-    
+    padding: 8px;    
+}
+
+.desc {
+    width: 300px;
+    text-align: center;
 }
