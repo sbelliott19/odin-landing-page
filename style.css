@@ -34,6 +34,8 @@ ul {
 .title {
     display: flex;
     flex-direction: column;
+    padding-right: 32px;
+    max-width: 550px;
 }
 
 .med-text,
@@ -50,6 +52,7 @@ ul {
 .sign-up {
     font-family: system-ui, monospace;
     background-color: #3882F6;
+    color: #F9FAF8;
     border: none;
     border-radius: 8px;
     padding: 8px 16px;
